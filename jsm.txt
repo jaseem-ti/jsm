@@ -1,5 +1,7 @@
 hello
 new
 world
-new change
+new change 1
+updated
+new change 2
 updated
